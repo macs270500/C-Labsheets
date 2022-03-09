@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\bin\Debug\Lab14Q6(ii).exe.config
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\bin\Debug\Lab14Q6(ii).exe
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\bin\Debug\Lab14Q6(ii).pdb
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\obj\Debug\Lab14Q6(ii).csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\obj\Debug\Lab14Q6_ii_.Form1.resources
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\obj\Debug\Lab14Q6_ii_.Properties.Resources.resources
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\obj\Debug\Lab14Q6(ii).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\obj\Debug\Lab14Q6(ii).exe
+C:\Users\User\source\repos\Lab14Q6(ii)\Lab14Q6(ii)\obj\Debug\Lab14Q6(ii).pdb

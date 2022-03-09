@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\bin\Debug\Lab14Q7.exe.config
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\bin\Debug\Lab14Q7.exe
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\bin\Debug\Lab14Q7.pdb
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\obj\Debug\Lab14Q7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\obj\Debug\Lab14Q7.Form1.resources
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\obj\Debug\Lab14Q7.Properties.Resources.resources
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\obj\Debug\Lab14Q7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\obj\Debug\Lab14Q7.exe
+C:\Users\User\source\repos\Lab14Q7\Lab14Q7\obj\Debug\Lab14Q7.pdb
