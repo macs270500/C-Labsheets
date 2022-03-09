@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\2D array test\2D array test\bin\Debug\2D array test.exe.config
+C:\Users\User\source\repos\2D array test\2D array test\bin\Debug\2D array test.exe
+C:\Users\User\source\repos\2D array test\2D array test\bin\Debug\2D array test.pdb
+C:\Users\User\source\repos\2D array test\2D array test\obj\Debug\2D array test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\2D array test\2D array test\obj\Debug\2D array test.exe
+C:\Users\User\source\repos\2D array test\2D array test\obj\Debug\2D array test.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Admission fee\Admission fee\bin\Debug\Admission fee.exe.config
+C:\Users\User\source\repos\Admission fee\Admission fee\bin\Debug\Admission fee.exe
+C:\Users\User\source\repos\Admission fee\Admission fee\bin\Debug\Admission fee.pdb
+C:\Users\User\source\repos\Admission fee\Admission fee\obj\Debug\Admission fee.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Admission fee\Admission fee\obj\Debug\Admission_fee.Form1.resources
+C:\Users\User\source\repos\Admission fee\Admission fee\obj\Debug\Admission_fee.Properties.Resources.resources
+C:\Users\User\source\repos\Admission fee\Admission fee\obj\Debug\Admission fee.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Admission fee\Admission fee\obj\Debug\Admission fee.exe
+C:\Users\User\source\repos\Admission fee\Admission fee\obj\Debug\Admission fee.pdb

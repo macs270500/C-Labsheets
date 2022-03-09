@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\bin\Debug\A.D.Test2Q2.exe.config
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\bin\Debug\A.D.Test2Q2.exe
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\bin\Debug\A.D.Test2Q2.pdb
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\obj\Debug\A.D.Test2Q2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\obj\Debug\A.D.Test2Q2.Form1.resources
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\obj\Debug\A.D.Test2Q2.Properties.Resources.resources
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\obj\Debug\A.D.Test2Q2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\obj\Debug\A.D.Test2Q2.exe
+C:\Users\User\source\repos\A.D.Test2Q2\A.D.Test2Q2\obj\Debug\A.D.Test2Q2.pdb

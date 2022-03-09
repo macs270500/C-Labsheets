@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\bin\Debug\A.D.Test2Q1.exe.config
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\bin\Debug\A.D.Test2Q1.exe
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\bin\Debug\A.D.Test2Q1.pdb
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\obj\Debug\A.D.Test2Q1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\obj\Debug\A.D.Test2Q1.frmEMS.resources
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\obj\Debug\A.D.Test2Q1.Properties.Resources.resources
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\obj\Debug\A.D.Test2Q1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\obj\Debug\A.D.Test2Q1.exe
+C:\Users\User\source\repos\A.D.Test2Q1\A.D.Test2Q1\obj\Debug\A.D.Test2Q1.pdb
