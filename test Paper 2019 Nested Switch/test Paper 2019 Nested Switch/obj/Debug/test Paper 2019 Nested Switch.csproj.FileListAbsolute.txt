@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\test Paper 2019 Nested Switch\test Paper 2019 Nested Switch\obj\Debug\test Paper 2019 Nested Switch.csprojAssemblyReference.cache
+C:\Users\User\source\repos\test Paper 2019 Nested Switch\test Paper 2019 Nested Switch\bin\Debug\test Paper 2019 Nested Switch.exe.config
+C:\Users\User\source\repos\test Paper 2019 Nested Switch\test Paper 2019 Nested Switch\bin\Debug\test Paper 2019 Nested Switch.exe
+C:\Users\User\source\repos\test Paper 2019 Nested Switch\test Paper 2019 Nested Switch\bin\Debug\test Paper 2019 Nested Switch.pdb
+C:\Users\User\source\repos\test Paper 2019 Nested Switch\test Paper 2019 Nested Switch\obj\Debug\test Paper 2019 Nested Switch.exe
+C:\Users\User\source\repos\test Paper 2019 Nested Switch\test Paper 2019 Nested Switch\obj\Debug\test Paper 2019 Nested Switch.pdb
+C:\Users\User\source\repos\test Paper 2019 Nested Switch\test Paper 2019 Nested Switch\obj\Debug\test Paper 2019 Nested Switch.csproj.CoreCompileInputs.cache

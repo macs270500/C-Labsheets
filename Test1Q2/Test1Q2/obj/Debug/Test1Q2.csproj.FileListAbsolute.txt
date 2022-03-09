@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Test1Q2\Test1Q2\bin\Debug\Test1Q2.exe.config
+C:\Users\User\source\repos\Test1Q2\Test1Q2\bin\Debug\Test1Q2.exe
+C:\Users\User\source\repos\Test1Q2\Test1Q2\bin\Debug\Test1Q2.pdb
+C:\Users\User\source\repos\Test1Q2\Test1Q2\obj\Debug\Test1Q2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Test1Q2\Test1Q2\obj\Debug\Test1Q2.Form1.resources
+C:\Users\User\source\repos\Test1Q2\Test1Q2\obj\Debug\Test1Q2.Properties.Resources.resources
+C:\Users\User\source\repos\Test1Q2\Test1Q2\obj\Debug\Test1Q2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Test1Q2\Test1Q2\obj\Debug\Test1Q2.exe
+C:\Users\User\source\repos\Test1Q2\Test1Q2\obj\Debug\Test1Q2.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Test1Q3(ii)\Test1Q3(ii)\bin\Debug\Test1Q3(ii).exe.config
+C:\Users\User\source\repos\Test1Q3(ii)\Test1Q3(ii)\bin\Debug\Test1Q3(ii).exe
+C:\Users\User\source\repos\Test1Q3(ii)\Test1Q3(ii)\bin\Debug\Test1Q3(ii).pdb
+C:\Users\User\source\repos\Test1Q3(ii)\Test1Q3(ii)\obj\Debug\Test1Q3(ii).csprojAssemblyReference.cache
+C:\Users\User\source\repos\Test1Q3(ii)\Test1Q3(ii)\obj\Debug\Test1Q3(ii).exe
+C:\Users\User\source\repos\Test1Q3(ii)\Test1Q3(ii)\obj\Debug\Test1Q3(ii).pdb
