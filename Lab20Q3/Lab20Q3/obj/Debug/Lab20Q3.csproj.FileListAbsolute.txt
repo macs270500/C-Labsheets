@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Lab20Q3\Lab20Q3\obj\Debug\Lab20Q3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab20Q3\Lab20Q3\obj\Debug\Lab20Q3.Properties.Resources.resources
+C:\Users\User\source\repos\Lab20Q3\Lab20Q3\obj\Debug\Lab20Q3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab20Q3\Lab20Q3\bin\Debug\Lab20Q3.exe.config
+C:\Users\User\source\repos\Lab20Q3\Lab20Q3\bin\Debug\Lab20Q3.exe
+C:\Users\User\source\repos\Lab20Q3\Lab20Q3\bin\Debug\Lab20Q3.pdb
+C:\Users\User\source\repos\Lab20Q3\Lab20Q3\obj\Debug\Lab20Q3.exe
+C:\Users\User\source\repos\Lab20Q3\Lab20Q3\obj\Debug\Lab20Q3.pdb

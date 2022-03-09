@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\bin\Debug\Lab20Q1.exe.config
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\bin\Debug\Lab20Q1.exe
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\bin\Debug\Lab20Q1.pdb
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\obj\Debug\Lab20Q1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\obj\Debug\Lab20Q1.frmStudentRegistration.resources
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\obj\Debug\Lab20Q1.Properties.Resources.resources
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\obj\Debug\Lab20Q1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\obj\Debug\Lab20Q1.exe
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\obj\Debug\Lab20Q1.pdb
+C:\Users\User\source\repos\Lab20Q1\Lab20Q1\obj\Debug\Lab20Q1.csproj.CoreCompileInputs.cache
