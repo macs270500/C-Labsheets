@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lab8Q7\Lab8Q7\bin\Debug\Lab8Q7.exe.config
+C:\Users\User\source\repos\Lab8Q7\Lab8Q7\bin\Debug\Lab8Q7.exe
+C:\Users\User\source\repos\Lab8Q7\Lab8Q7\bin\Debug\Lab8Q7.pdb
+C:\Users\User\source\repos\Lab8Q7\Lab8Q7\obj\Debug\Lab8Q7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab8Q7\Lab8Q7\obj\Debug\Lab8Q7.exe
+C:\Users\User\source\repos\Lab8Q7\Lab8Q7\obj\Debug\Lab8Q7.pdb
