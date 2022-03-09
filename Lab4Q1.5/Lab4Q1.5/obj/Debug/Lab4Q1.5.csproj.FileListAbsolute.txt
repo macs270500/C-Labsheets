@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lab4Q1.5\Lab4Q1.5\bin\Debug\Lab4Q1.5.exe.config
+C:\Users\User\source\repos\Lab4Q1.5\Lab4Q1.5\bin\Debug\Lab4Q1.5.exe
+C:\Users\User\source\repos\Lab4Q1.5\Lab4Q1.5\bin\Debug\Lab4Q1.5.pdb
+C:\Users\User\source\repos\Lab4Q1.5\Lab4Q1.5\obj\Debug\Lab4Q1.5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab4Q1.5\Lab4Q1.5\obj\Debug\Lab4Q1.5.exe
+C:\Users\User\source\repos\Lab4Q1.5\Lab4Q1.5\obj\Debug\Lab4Q1.5.pdb
