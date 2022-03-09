@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\bin\Debug\Windowsform test 1.exe.config
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\bin\Debug\Windowsform test 1.exe
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\bin\Debug\Windowsform test 1.pdb
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\obj\Debug\Windowsform test 1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\obj\Debug\Windowsform_test_1.Form1.resources
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\obj\Debug\Windowsform_test_1.Properties.Resources.resources
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\obj\Debug\Windowsform test 1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\obj\Debug\Windowsform test 1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\obj\Debug\Windowsform test 1.exe
+C:\Users\User\source\repos\Windowsform test 1\Windowsform test 1\obj\Debug\Windowsform test 1.pdb

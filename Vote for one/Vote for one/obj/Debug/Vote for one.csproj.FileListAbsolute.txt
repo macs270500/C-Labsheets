@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Vote for one\Vote for one\bin\Debug\Vote for one.exe.config
+C:\Users\User\source\repos\Vote for one\Vote for one\bin\Debug\Vote for one.exe
+C:\Users\User\source\repos\Vote for one\Vote for one\bin\Debug\Vote for one.pdb
+C:\Users\User\source\repos\Vote for one\Vote for one\obj\Debug\Vote for one.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Vote for one\Vote for one\obj\Debug\Vote_for_one.Form1.resources
+C:\Users\User\source\repos\Vote for one\Vote for one\obj\Debug\Vote_for_one.Properties.Resources.resources
+C:\Users\User\source\repos\Vote for one\Vote for one\obj\Debug\Vote for one.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Vote for one\Vote for one\obj\Debug\Vote for one.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vote for one\Vote for one\obj\Debug\Vote for one.exe
+C:\Users\User\source\repos\Vote for one\Vote for one\obj\Debug\Vote for one.pdb
