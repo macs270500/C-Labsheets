@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lab12Q3\Lab12Q3\obj\Debug\Lab12Q3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab12Q3\Lab12Q3\bin\Debug\Lab12Q3.exe.config
+C:\Users\User\source\repos\Lab12Q3\Lab12Q3\bin\Debug\Lab12Q3.exe
+C:\Users\User\source\repos\Lab12Q3\Lab12Q3\bin\Debug\Lab12Q3.pdb
+C:\Users\User\source\repos\Lab12Q3\Lab12Q3\obj\Debug\Lab12Q3.exe
+C:\Users\User\source\repos\Lab12Q3\Lab12Q3\obj\Debug\Lab12Q3.pdb

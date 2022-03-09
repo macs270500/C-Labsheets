@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lab12Q5\Lab12Q5\bin\Debug\Lab12Q5.exe.config
+C:\Users\User\source\repos\Lab12Q5\Lab12Q5\bin\Debug\Lab12Q5.exe
+C:\Users\User\source\repos\Lab12Q5\Lab12Q5\bin\Debug\Lab12Q5.pdb
+C:\Users\User\source\repos\Lab12Q5\Lab12Q5\obj\Debug\Lab12Q5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab12Q5\Lab12Q5\obj\Debug\Lab12Q5.exe
+C:\Users\User\source\repos\Lab12Q5\Lab12Q5\obj\Debug\Lab12Q5.pdb

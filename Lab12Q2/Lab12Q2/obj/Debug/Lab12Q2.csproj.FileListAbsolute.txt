@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\bin\Debug\Lab12Q2.exe.config
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\bin\Debug\Lab12Q2.exe
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\bin\Debug\Lab12Q2.pdb
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\obj\Debug\Lab12Q2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\obj\Debug\Lab12Q2.Form1.resources
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\obj\Debug\Lab12Q2.Properties.Resources.resources
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\obj\Debug\Lab12Q2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\obj\Debug\Lab12Q2.exe
+C:\Users\User\source\repos\Lab12Q2\Lab12Q2\obj\Debug\Lab12Q2.pdb
