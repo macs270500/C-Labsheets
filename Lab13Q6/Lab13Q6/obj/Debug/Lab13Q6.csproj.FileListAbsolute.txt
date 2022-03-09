@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\bin\Debug\Lab13Q6.exe.config
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\bin\Debug\Lab13Q6.exe
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\bin\Debug\Lab13Q6.pdb
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\obj\Debug\Lab13Q6.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\obj\Debug\Lab13Q6.AdmissionSystem.resources
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\obj\Debug\Lab13Q6.Properties.Resources.resources
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\obj\Debug\Lab13Q6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\obj\Debug\Lab13Q6.exe
+C:\Users\User\source\repos\Lab13Q6\Lab13Q6\obj\Debug\Lab13Q6.pdb
