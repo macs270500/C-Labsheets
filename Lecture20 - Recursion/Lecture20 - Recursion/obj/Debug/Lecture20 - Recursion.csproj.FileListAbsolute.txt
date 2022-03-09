@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lecture20 - Recursion\Lecture20 - Recursion\bin\Debug\Lecture20 - Recursion.exe.config
+C:\Users\User\source\repos\Lecture20 - Recursion\Lecture20 - Recursion\bin\Debug\Lecture20 - Recursion.exe
+C:\Users\User\source\repos\Lecture20 - Recursion\Lecture20 - Recursion\bin\Debug\Lecture20 - Recursion.pdb
+C:\Users\User\source\repos\Lecture20 - Recursion\Lecture20 - Recursion\obj\Debug\Lecture20 - Recursion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lecture20 - Recursion\Lecture20 - Recursion\obj\Debug\Lecture20 - Recursion.exe
+C:\Users\User\source\repos\Lecture20 - Recursion\Lecture20 - Recursion\obj\Debug\Lecture20 - Recursion.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\bin\Debug\Lecture20 - Fibonacci.exe.config
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\bin\Debug\Lecture20 - Fibonacci.exe
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\bin\Debug\Lecture20 - Fibonacci.pdb
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\obj\Debug\Lecture20 - Fibonacci.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\obj\Debug\Lecture20___Fibonacci.Form1.resources
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\obj\Debug\Lecture20___Fibonacci.Properties.Resources.resources
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\obj\Debug\Lecture20 - Fibonacci.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\obj\Debug\Lecture20 - Fibonacci.exe
+C:\Users\User\source\repos\Lecture20 - Fibonacci\Lecture20 - Fibonacci\obj\Debug\Lecture20 - Fibonacci.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lecture9\Lecture9\bin\Debug\Lecture9.exe.config
+C:\Users\User\source\repos\Lecture9\Lecture9\bin\Debug\Lecture9.exe
+C:\Users\User\source\repos\Lecture9\Lecture9\bin\Debug\Lecture9.pdb
+C:\Users\User\source\repos\Lecture9\Lecture9\obj\Debug\Lecture9.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lecture9\Lecture9\obj\Debug\Lecture9.Form1.resources
+C:\Users\User\source\repos\Lecture9\Lecture9\obj\Debug\Lecture9.Properties.Resources.resources
+C:\Users\User\source\repos\Lecture9\Lecture9\obj\Debug\Lecture9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lecture9\Lecture9\obj\Debug\Lecture9.exe
+C:\Users\User\source\repos\Lecture9\Lecture9\obj\Debug\Lecture9.pdb
