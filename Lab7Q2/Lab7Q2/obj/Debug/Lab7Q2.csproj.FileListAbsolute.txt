@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\bin\Debug\Lab7Q2.exe.config
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\bin\Debug\Lab7Q2.exe
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\bin\Debug\Lab7Q2.pdb
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\obj\Debug\Lab7Q2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\obj\Debug\Lab7Q2.Form1.resources
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\obj\Debug\Lab7Q2.Properties.Resources.resources
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\obj\Debug\Lab7Q2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\obj\Debug\Lab7Q2.exe
+C:\Users\User\source\repos\Lab7Q2\Lab7Q2\obj\Debug\Lab7Q2.pdb
