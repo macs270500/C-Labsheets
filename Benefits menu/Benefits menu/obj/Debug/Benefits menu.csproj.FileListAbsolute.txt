@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Benefits menu\Benefits menu\bin\Debug\Benefits menu.exe.config
+C:\Users\User\source\repos\Benefits menu\Benefits menu\bin\Debug\Benefits menu.exe
+C:\Users\User\source\repos\Benefits menu\Benefits menu\bin\Debug\Benefits menu.pdb
+C:\Users\User\source\repos\Benefits menu\Benefits menu\obj\Debug\Benefits menu.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Benefits menu\Benefits menu\obj\Debug\Benefits_menu.Form1.resources
+C:\Users\User\source\repos\Benefits menu\Benefits menu\obj\Debug\Benefits_menu.Properties.Resources.resources
+C:\Users\User\source\repos\Benefits menu\Benefits menu\obj\Debug\Benefits menu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Benefits menu\Benefits menu\obj\Debug\Benefits menu.exe
+C:\Users\User\source\repos\Benefits menu\Benefits menu\obj\Debug\Benefits menu.pdb
