@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\bin\Debug\LAb4Q2.exe.config
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\bin\Debug\LAb4Q2.exe
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\bin\Debug\LAb4Q2.pdb
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\obj\Debug\LAb4Q2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\obj\Debug\LAb4Q2.Form1.resources
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\obj\Debug\LAb4Q2.Properties.Resources.resources
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\obj\Debug\LAb4Q2.UserControl1.resources
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\obj\Debug\LAb4Q2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\obj\Debug\LAb4Q2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\obj\Debug\LAb4Q2.exe
+C:\Users\User\source\repos\LAb4Q2\LAb4Q2\obj\Debug\LAb4Q2.pdb
