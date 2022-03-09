@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\bin\Debug\Lab9Q5.exe.config
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\bin\Debug\Lab9Q5.exe
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\bin\Debug\Lab9Q5.pdb
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\obj\Debug\Lab9Q5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\obj\Debug\Lab9Q5.President_Ages.resources
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\obj\Debug\Lab9Q5.Properties.Resources.resources
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\obj\Debug\Lab9Q5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\obj\Debug\Lab9Q5.exe
+C:\Users\User\source\repos\Lab9Q5\Lab9Q5\obj\Debug\Lab9Q5.pdb
