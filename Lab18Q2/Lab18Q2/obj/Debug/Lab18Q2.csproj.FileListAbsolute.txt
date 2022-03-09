@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\bin\Debug\Lab18Q2.exe.config
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\bin\Debug\Lab18Q2.exe
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\bin\Debug\Lab18Q2.pdb
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\obj\Debug\Lab18Q2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\obj\Debug\Lab18Q2.CircleApp.resources
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\obj\Debug\Lab18Q2.Properties.Resources.resources
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\obj\Debug\Lab18Q2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\obj\Debug\Lab18Q2.exe
+C:\Users\User\source\repos\Lab18Q2\Lab18Q2\obj\Debug\Lab18Q2.pdb
