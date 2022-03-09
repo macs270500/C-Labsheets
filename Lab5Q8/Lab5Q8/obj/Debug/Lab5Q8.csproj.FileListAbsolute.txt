@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\bin\Debug\Lab5Q8.exe.config
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\bin\Debug\Lab5Q8.exe
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\bin\Debug\Lab5Q8.pdb
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\obj\Debug\Lab5Q8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\obj\Debug\Lab5Q8.Form1.resources
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\obj\Debug\Lab5Q8.Properties.Resources.resources
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\obj\Debug\Lab5Q8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\obj\Debug\Lab5Q8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\obj\Debug\Lab5Q8.exe
+C:\Users\User\source\repos\Lab5Q8\Lab5Q8\obj\Debug\Lab5Q8.pdb
