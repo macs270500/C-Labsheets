@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\bin\Debug\MegaCities.mdf
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\bin\Debug\MegaCities_log.ldf
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\bin\Debug\Lab16Q4.exe.config
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\bin\Debug\Lab16Q4.exe
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\bin\Debug\Lab16Q4.pdb
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\obj\Debug\Lab16Q4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\obj\Debug\Lab16Q4.Form1.resources
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\obj\Debug\Lab16Q4.Properties.Resources.resources
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\obj\Debug\Lab16Q4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\obj\Debug\Lab16Q4.exe
+C:\Users\User\source\repos\Lab16Q4\Lab16Q4\obj\Debug\Lab16Q4.pdb

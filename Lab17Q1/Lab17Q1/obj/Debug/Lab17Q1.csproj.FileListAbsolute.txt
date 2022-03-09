@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\bin\Debug\MegaCities.mdf
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\bin\Debug\MegaCities_log.ldf
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\bin\Debug\Lab17Q1.exe.config
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\bin\Debug\Lab17Q1.exe
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\bin\Debug\Lab17Q1.pdb
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\obj\Debug\Lab17Q1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\obj\Debug\Lab17Q1.frmDatabase.resources
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\obj\Debug\Lab17Q1.Properties.Resources.resources
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\obj\Debug\Lab17Q1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\obj\Debug\Lab17Q1.exe
+C:\Users\User\source\repos\Lab17Q1\Lab17Q1\obj\Debug\Lab17Q1.pdb
