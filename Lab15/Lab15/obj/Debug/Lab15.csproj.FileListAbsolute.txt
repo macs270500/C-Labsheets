@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\Database2.mdf
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\Database2_log.ldf
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\User\source\repos\Lab15\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab15\Lab15\obj\Debug\Lab15.frmMain.resources
+C:\Users\User\source\repos\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\User\source\repos\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\User\source\repos\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\UoMDb.mdf
+C:\Users\User\source\repos\Lab15\Lab15\bin\Debug\UoMDb_log.ldf
+C:\Users\User\source\repos\Lab15\Lab15\obj\Debug\Lab15.Kalam.resources
