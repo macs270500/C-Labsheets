@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\bin\Debug\Lab6Q8.exe.config
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\bin\Debug\Lab6Q8.exe
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\bin\Debug\Lab6Q8.pdb
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\obj\Debug\Lab6Q8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\obj\Debug\Lab6Q8.Form1.resources
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\obj\Debug\Lab6Q8.Properties.Resources.resources
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\obj\Debug\Lab6Q8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\obj\Debug\Lab6Q8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\obj\Debug\Lab6Q8.exe
+C:\Users\User\source\repos\Lab6Q8\Lab6Q8\obj\Debug\Lab6Q8.pdb
