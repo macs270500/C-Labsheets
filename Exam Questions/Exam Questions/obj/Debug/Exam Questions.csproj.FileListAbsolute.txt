@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Exam Questions\Exam Questions\bin\Debug\Exam Questions.exe.config
+C:\Users\User\source\repos\Exam Questions\Exam Questions\bin\Debug\Exam Questions.exe
+C:\Users\User\source\repos\Exam Questions\Exam Questions\bin\Debug\Exam Questions.pdb
+C:\Users\User\source\repos\Exam Questions\Exam Questions\obj\Debug\Exam Questions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exam Questions\Exam Questions\obj\Debug\Exam_Questions.Form1.resources
+C:\Users\User\source\repos\Exam Questions\Exam Questions\obj\Debug\Exam_Questions.Properties.Resources.resources
+C:\Users\User\source\repos\Exam Questions\Exam Questions\obj\Debug\Exam Questions.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Exam Questions\Exam Questions\obj\Debug\Exam Questions.exe
+C:\Users\User\source\repos\Exam Questions\Exam Questions\obj\Debug\Exam Questions.pdb

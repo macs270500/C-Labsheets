@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\DivideByZeroExceptionHandling\DivideByZeroExceptionHandling\bin\Debug\DivideByZeroExceptionHandling.exe.config
+C:\Users\User\source\repos\DivideByZeroExceptionHandling\DivideByZeroExceptionHandling\bin\Debug\DivideByZeroExceptionHandling.exe
+C:\Users\User\source\repos\DivideByZeroExceptionHandling\DivideByZeroExceptionHandling\bin\Debug\DivideByZeroExceptionHandling.pdb
+C:\Users\User\source\repos\DivideByZeroExceptionHandling\DivideByZeroExceptionHandling\obj\Debug\DivideByZeroExceptionHandling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DivideByZeroExceptionHandling\DivideByZeroExceptionHandling\obj\Debug\DivideByZeroExceptionHandling.exe
+C:\Users\User\source\repos\DivideByZeroExceptionHandling\DivideByZeroExceptionHandling\obj\Debug\DivideByZeroExceptionHandling.pdb

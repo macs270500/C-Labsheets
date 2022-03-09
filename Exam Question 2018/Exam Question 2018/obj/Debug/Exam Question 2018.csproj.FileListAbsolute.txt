@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Exam Question 2018\Exam Question 2018\bin\Debug\Exam Question 2018.exe.config
+C:\Users\User\source\repos\Exam Question 2018\Exam Question 2018\bin\Debug\Exam Question 2018.exe
+C:\Users\User\source\repos\Exam Question 2018\Exam Question 2018\bin\Debug\Exam Question 2018.pdb
+C:\Users\User\source\repos\Exam Question 2018\Exam Question 2018\obj\Debug\Exam Question 2018.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exam Question 2018\Exam Question 2018\obj\Debug\Exam Question 2018.exe
+C:\Users\User\source\repos\Exam Question 2018\Exam Question 2018\obj\Debug\Exam Question 2018.pdb

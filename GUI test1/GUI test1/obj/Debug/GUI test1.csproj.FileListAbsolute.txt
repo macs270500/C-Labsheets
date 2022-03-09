@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\GUI test1\GUI test1\bin\Debug\GUI test1.exe.config
+C:\Users\User\source\repos\GUI test1\GUI test1\bin\Debug\GUI test1.exe
+C:\Users\User\source\repos\GUI test1\GUI test1\bin\Debug\GUI test1.pdb
+C:\Users\User\source\repos\GUI test1\GUI test1\obj\Debug\GUI test1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GUI test1\GUI test1\obj\Debug\GUI_test1.Form1.resources
+C:\Users\User\source\repos\GUI test1\GUI test1\obj\Debug\GUI_test1.Properties.Resources.resources
+C:\Users\User\source\repos\GUI test1\GUI test1\obj\Debug\GUI test1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GUI test1\GUI test1\obj\Debug\GUI test1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GUI test1\GUI test1\obj\Debug\GUI test1.exe
+C:\Users\User\source\repos\GUI test1\GUI test1\obj\Debug\GUI test1.pdb

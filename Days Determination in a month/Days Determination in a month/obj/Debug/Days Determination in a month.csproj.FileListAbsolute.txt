@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\bin\Debug\Days Determination in a month.exe.config
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\bin\Debug\Days Determination in a month.exe
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\bin\Debug\Days Determination in a month.pdb
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\obj\Debug\Days Determination in a month.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\obj\Debug\Days_Determination_in_a_month.Form1.resources
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\obj\Debug\Days_Determination_in_a_month.Properties.Resources.resources
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\obj\Debug\Days Determination in a month.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\obj\Debug\Days Determination in a month.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\obj\Debug\Days Determination in a month.exe
+C:\Users\User\source\repos\Days Determination in a month\Days Determination in a month\obj\Debug\Days Determination in a month.pdb
