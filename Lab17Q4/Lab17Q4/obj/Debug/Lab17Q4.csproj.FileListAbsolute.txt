@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lab17Q4\Lab17Q4\bin\Debug\Lab17Q4.exe.config
+C:\Users\User\source\repos\Lab17Q4\Lab17Q4\bin\Debug\Lab17Q4.exe
+C:\Users\User\source\repos\Lab17Q4\Lab17Q4\bin\Debug\Lab17Q4.pdb
+C:\Users\User\source\repos\Lab17Q4\Lab17Q4\obj\Debug\Lab17Q4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab17Q4\Lab17Q4\obj\Debug\Lab17Q4.exe
+C:\Users\User\source\repos\Lab17Q4\Lab17Q4\obj\Debug\Lab17Q4.pdb
