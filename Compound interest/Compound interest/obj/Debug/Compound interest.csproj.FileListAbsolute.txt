@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Compound interest\Compound interest\bin\Debug\Compound interest.exe.config
+C:\Users\User\source\repos\Compound interest\Compound interest\bin\Debug\Compound interest.exe
+C:\Users\User\source\repos\Compound interest\Compound interest\bin\Debug\Compound interest.pdb
+C:\Users\User\source\repos\Compound interest\Compound interest\obj\Debug\Compound interest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Compound interest\Compound interest\obj\Debug\Compound interest.exe
+C:\Users\User\source\repos\Compound interest\Compound interest\obj\Debug\Compound interest.pdb

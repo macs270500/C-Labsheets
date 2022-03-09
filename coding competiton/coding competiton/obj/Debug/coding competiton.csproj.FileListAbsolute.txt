@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\coding competiton\coding competiton\bin\Debug\coding competiton.exe.config
+C:\Users\User\source\repos\coding competiton\coding competiton\bin\Debug\coding competiton.exe
+C:\Users\User\source\repos\coding competiton\coding competiton\bin\Debug\coding competiton.pdb
+C:\Users\User\source\repos\coding competiton\coding competiton\obj\Debug\coding competiton.csprojAssemblyReference.cache
+C:\Users\User\source\repos\coding competiton\coding competiton\obj\Debug\coding_competiton.Form1.resources
+C:\Users\User\source\repos\coding competiton\coding competiton\obj\Debug\coding_competiton.Properties.Resources.resources
+C:\Users\User\source\repos\coding competiton\coding competiton\obj\Debug\coding competiton.csproj.GenerateResource.cache
+C:\Users\User\source\repos\coding competiton\coding competiton\obj\Debug\coding competiton.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\coding competiton\coding competiton\obj\Debug\coding competiton.exe
+C:\Users\User\source\repos\coding competiton\coding competiton\obj\Debug\coding competiton.pdb
