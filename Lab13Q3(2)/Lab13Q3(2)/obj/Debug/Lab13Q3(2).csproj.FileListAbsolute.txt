@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\bin\Debug\Lab13Q3(2).exe.config
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\bin\Debug\Lab13Q3(2).exe
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\bin\Debug\Lab13Q3(2).pdb
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\obj\Debug\Lab13Q3(2).csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\obj\Debug\Lab13Q3_2_.Form1.resources
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\obj\Debug\Lab13Q3_2_.Properties.Resources.resources
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\obj\Debug\Lab13Q3(2).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\obj\Debug\Lab13Q3(2).exe
+C:\Users\User\source\repos\Lab13Q3(2)\Lab13Q3(2)\obj\Debug\Lab13Q3(2).pdb

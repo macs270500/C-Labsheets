@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Lab13Q2(2)\Lab13Q2(2)\bin\Debug\Lab13Q2(2).exe.config
+C:\Users\User\source\repos\Lab13Q2(2)\Lab13Q2(2)\bin\Debug\Lab13Q2(2).exe
+C:\Users\User\source\repos\Lab13Q2(2)\Lab13Q2(2)\bin\Debug\Lab13Q2(2).pdb
+C:\Users\User\source\repos\Lab13Q2(2)\Lab13Q2(2)\obj\Debug\Lab13Q2(2).exe
+C:\Users\User\source\repos\Lab13Q2(2)\Lab13Q2(2)\obj\Debug\Lab13Q2(2).pdb
