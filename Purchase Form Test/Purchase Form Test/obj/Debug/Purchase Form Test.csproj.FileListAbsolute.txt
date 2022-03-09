@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\bin\Debug\Purchase Form Test.exe.config
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\bin\Debug\Purchase Form Test.exe
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\bin\Debug\Purchase Form Test.pdb
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\obj\Debug\Purchase Form Test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\obj\Debug\Purchase_Form_Test.frmOrder.resources
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\obj\Debug\Purchase_Form_Test.Properties.Resources.resources
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\obj\Debug\Purchase Form Test.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\obj\Debug\Purchase Form Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\obj\Debug\Purchase Form Test.exe
+C:\Users\User\source\repos\Purchase Form Test\Purchase Form Test\obj\Debug\Purchase Form Test.pdb
