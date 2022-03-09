@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\bin\Debug\Lab6Q1.exe.config
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\bin\Debug\Lab6Q1.exe
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\bin\Debug\Lab6Q1.pdb
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\obj\Debug\Lab6Q1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\obj\Debug\Lab6Q1.Form1.resources
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\obj\Debug\Lab6Q1.Properties.Resources.resources
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\obj\Debug\Lab6Q1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\obj\Debug\Lab6Q1.exe
+C:\Users\User\source\repos\Lab6Q1\Lab6Q1\obj\Debug\Lab6Q1.pdb
