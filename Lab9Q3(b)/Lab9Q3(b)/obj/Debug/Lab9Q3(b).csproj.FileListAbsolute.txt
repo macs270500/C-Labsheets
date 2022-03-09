@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Lab9Q3(b)\Lab9Q3(b)\obj\Debug\Lab9Q3(b).csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab9Q3(b)\Lab9Q3(b)\obj\Debug\Lab9Q3_b_.Properties.Resources.resources
+C:\Users\User\source\repos\Lab9Q3(b)\Lab9Q3(b)\obj\Debug\Lab9Q3(b).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab9Q3(b)\Lab9Q3(b)\bin\Debug\Lab9Q3(b).exe.config
+C:\Users\User\source\repos\Lab9Q3(b)\Lab9Q3(b)\bin\Debug\Lab9Q3(b).exe
+C:\Users\User\source\repos\Lab9Q3(b)\Lab9Q3(b)\bin\Debug\Lab9Q3(b).pdb
+C:\Users\User\source\repos\Lab9Q3(b)\Lab9Q3(b)\obj\Debug\Lab9Q3(b).exe
+C:\Users\User\source\repos\Lab9Q3(b)\Lab9Q3(b)\obj\Debug\Lab9Q3(b).pdb

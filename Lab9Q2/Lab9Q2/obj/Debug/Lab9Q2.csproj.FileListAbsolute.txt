@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\bin\Debug\Lab9Q2.exe.config
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\bin\Debug\Lab9Q2.exe
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\bin\Debug\Lab9Q2.pdb
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\obj\Debug\Lab9Q2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\obj\Debug\Lab9Q2.Form1.resources
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\obj\Debug\Lab9Q2.Properties.Resources.resources
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\obj\Debug\Lab9Q2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\obj\Debug\Lab9Q2.exe
+C:\Users\User\source\repos\Lab9Q2\Lab9Q2\obj\Debug\Lab9Q2.pdb
